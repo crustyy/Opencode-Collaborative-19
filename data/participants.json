@@ -30,6 +30,16 @@
 			"twitter"  : "",
             "referral" : ""
         },
+	    {
+            "name": "Muskan Bansal",
+            "imageurl": "",
+            "about": "Curious learner",
+            "college": "IIIT Lucknow,
+	    "facebook": "https://www.facebook.com/muskan.bansal.919",	
+            "github": "https://github.com/crustyy",
+            "twitter": "",
+            "referral": ""
+        },
 	 	{
             "name"     : "NamanDeept",
 			"imageurl" : "assets/img/participants/namandeept.jpg",
